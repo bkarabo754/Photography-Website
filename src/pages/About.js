@@ -39,7 +39,7 @@ const About = () => {
           >
             <h1 className='h1'>About me</h1>
             <p className='mb-12 max-w-sm'>
-            Photography is all about the process. It is about making clients comfortable in front of the camera and giving them that boost of confidence.
+            Photography is all about the process. It is about making her clients comfortable in front of the camera and giving them that boost of confidence.
               <b> Headshot Photography, </b> has become increasingly important in the social media and digital age.
               <br />
               <br />
